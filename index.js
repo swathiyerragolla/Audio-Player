@@ -17,8 +17,8 @@ let audios = [
 ];
 
 let images = [
-  "https://m.media-amazon.com/images/M/MV5BM2NmYzRjYTItNWUwMC00MjMyLThhYzgtMWE4ODBmOGUzOGZjXkEyXkFqcGc@._V1_.jpg",
-  "https://i.pinimg.com/736x/38/2f/02/382f02fd7be73d7ddc7a8d38febbd8a4.jpg"
+  " https://m.media-amazon.com/images/M/MV5BM2NmYzRjYTItNWUwMC00MjMyLThhYzgtMWE4ODBmOGUzOGZjXkEyXkFqcGc@._V1_.jpg ",
+  " https://i.pinimg.com/736x/38/2f/02/382f02fd7be73d7ddc7a8d38febbd8a4.jpg "
 ];
 
 let trackNames = [
